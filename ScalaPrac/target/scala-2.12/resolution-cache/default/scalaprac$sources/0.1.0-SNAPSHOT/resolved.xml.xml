@@ -4,7 +4,7 @@
 		module="scalaprac$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190706111941"
+		publication="20190706162054"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
